@@ -4,8 +4,8 @@
 
 you just type cpprun <file_name> [without extension]
 
-put the script in your bin folder /bin 
+put the script in your /bin folder
 
-run the command chmod +x cpprun
+run the command "chmod +x cpprun"
 
 you are ready to use it.
